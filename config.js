@@ -2,7 +2,7 @@ require('dotenv').config();
 
 const config = {
     BOT_NAME: process.env.BOT_NAME || 'Mini Sigma V1',
-    OWNER_NUMBER: process.env.OWNER_NUMBER || '5544988138425',
+    OWNER_NUMBER: process.env.OWNER_NUMBER || '50942315138',
     DEV_MODE: process.env.DEV_MODE === 'true',
     MONGODB_URI: process.env.MONGODB_URI,
     PREFIX: '.',

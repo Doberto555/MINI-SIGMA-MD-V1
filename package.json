@@ -1,5 +1,5 @@
 {
-  "name": "MINI SIGMA MD",
+  "name": "mini_sigma_md",
   "version": "2.0.0",
   "description": "WhatsApp Bot Multi-Appareils avec MongoDB",
   "main": "main.js",
